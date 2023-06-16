@@ -1,1 +1,1 @@
-# Mini_Project-Resize_Video
+# Mini Project - Resize Video
